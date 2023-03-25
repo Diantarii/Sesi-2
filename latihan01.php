@@ -13,6 +13,7 @@
     
     <?php
         echo $konten;
+        echo "";
     ?>
 
 </body>
